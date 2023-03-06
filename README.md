@@ -1,6 +1,6 @@
 ## Vue Recommended Learning Path
 
-## VueMastery: **Intro to Vue**
+## VueMastery: **Intro to Vue** [DONE]
 
 👇
 
